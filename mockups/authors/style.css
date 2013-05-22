@@ -1,0 +1,128 @@
+body {
+    font-family: arial,helvetica,clean,sans-serif;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+#container {
+    margin: auto;
+    width: 50em;
+}
+.section {
+    clear: left;
+    padding: 5px;
+}
+.white {
+    
+}
+.gray {
+    background: #EEE;
+}
+h1 {
+    font-family: "Bevan-PotanoSans","Times New Roman", Times,serif;
+    margin: 0 2em 1em 0;
+    display: block;
+    float: left;
+    font-size: 2.5em;
+}
+h2 {
+    font-family: "Bevan-PotanoSans","Times New Roman", Times,serif;
+    margin: 1.5em 0 0 0;
+    clear: left;
+}
+h1:lang(syr-Syrc) {
+    font-size: 2.5em;
+    font-family: "Estrangelo Edessa";
+}
+span:lang(syr-Syrc), a:lang(syr-Syrc) {
+    font-size: 120%;
+    font-family: "Estrangelo Edessa";
+}
+span:lang(syr-Syre), a:lang(syr-Syre) {
+    font-size: 120%;
+    font-family: "East Syriac Adiabene";
+}
+span:lang(syr-Syrj), a:lang(syr-Syrj) {
+    font-size: 120%;
+    font-family: "Serto Batnan";
+}
+span:lang(ara-Arab), a:lang(ara-Arab) {
+    font-size: 150%;
+    font-family: "Al Bayan"
+}
+.filter-script {
+    padding: .1em;
+    font-weight: 900;
+    color: red;
+    text-decoration: none;
+}
+.filter-script:hover {
+    border: 1px;
+    background: #CCC;
+    text-decoration: none;
+}
+.filter-language {
+    font-weight: 300;
+    text-decoration: none;
+    color: red;
+}
+.filter-language:hover {
+    background: #CCC;
+}
+.language-abbr {
+    margin: 0 .3em 0 .3em;
+    font-weight: 900;
+    font-size: smaller;
+    text-decoration: none;
+}
+.row-filter {
+    font-size: smaller;
+    background: #DDD;
+}
+.more {
+    font-weight: 900;
+    text-decoration: none;
+}
+a.expand {
+    color: green;
+    font-weight: bold;
+    margin: 0 0 0 .5em;
+}
+a:hover.expand {
+    text-decoration: none;
+}
+.tab-container {
+    margin: 1em 0 ;
+}
+.tab-container div {
+    float: left;
+    padding: .5em;
+    background: #CCC;
+    border: 1px #AAA solid;
+    color: #555;
+}
+.tab-container .tab-selected {
+    background: #FFFFDD;
+    border: 1px black solid;
+}
+table {
+    width: 100%;
+    border-top: 1px solid black;
+}
+table td {
+    border: none;
+}
+thead {
+    font-weight: bold;
+    color: #444;
+}
+.expanded {
+    border:1px solid #AAA;
+    background: #CCCCFF;
+}
+div.expanded{
+    margin: 0 0 0 3em;
+}

@@ -1,0 +1,111 @@
+
+{
+    "timeline":
+    {
+        "headline":"Life Events",
+        "type":"default",
+		"text":"Events in the life of Ephrem",
+		"startDate":"0306",
+        "date": [
+            {
+                "startDate":"0306",
+				"endDate":"0306",
+                "headline":"Ephrem born in the region of Nisibis",
+                "text":"<p>Born probably of Christian parents in the early years of the 4th cent. in the region of Nisibis, he spent most of his life in Nisibis, serving a series of bishops (beginning with Yaʿqub of Nisibis, d. 338).</p>",
+                "asset":
+                {
+                    "media":"https://maps.google.com/maps?q=nisibis&hl=en&ll=37.090377,41.211605&spn=0.108313,0.154324&sll=38.804821,-77.236966&sspn=3.38576,4.938354&hnear=Nusaybin,+Turkey&t=p&z=13&iwloc=A",
+                    "credit":"",
+                    "caption":"<a href='http://pleiades.stoa.org/places/874623'>View at Pleiades</a>"
+                }
+            },
+            {
+                "startDate":"0338",
+				"endDate":"0338",
+                "headline":"Shapur II of Persia besieges Ephrem's hometown of Nisibis",
+                "text":"",
+                "asset":
+                {
+                    "media":"https://maps.google.com/maps?q=nisibis&hl=en&ll=37.090377,41.211605&spn=0.108313,0.154324&sll=38.804821,-77.236966&sspn=3.38576,4.938354&hnear=Nusaybin,+Turkey&t=p&z=13&iwloc=A",
+                    "credit":"",
+                    "caption":"<a href='http://pleiades.stoa.org/places/874623'>View at Pleiades</a>"
+                }
+            },
+            {
+                "startDate":"0346",
+				"endDate":"0346",
+                "headline":"Shapur II of Persia besieges Ephrem's hometown of Nisibis a second time",
+                "text":"",
+                "asset":
+                {
+                    "media":"https://maps.google.com/maps?q=nisibis&hl=en&ll=37.090377,41.211605&spn=0.108313,0.154324&sll=38.804821,-77.236966&sspn=3.38576,4.938354&hnear=Nusaybin,+Turkey&t=p&z=13&iwloc=A",
+                    "credit":"",
+                    "caption":"<a href='http://pleiades.stoa.org/places/874623'>View at Pleiades</a>"
+                }
+            },
+            {
+                "startDate":"0350",
+				"endDate":"0350",
+                "headline":"Shapur II of Persia besieges Ephrem's hometown of Nisibis a third time",
+                "text":"",
+                "asset":
+                {
+                    "media":"https://maps.google.com/maps?q=nisibis&hl=en&ll=37.090377,41.211605&spn=0.108313,0.154324&sll=38.804821,-77.236966&sspn=3.38576,4.938354&hnear=Nusaybin,+Turkey&t=p&z=13&iwloc=A",
+                    "credit":"",
+                    "caption":"<a href='http://pleiades.stoa.org/places/874623'>View at Pleiades</a>"
+                }
+            },
+            {
+                "startDate":"0359",
+				"endDate":"0359",
+                "headline":"Ephrem leaves Nisibis",
+                "text":"",
+                "asset":
+                {
+                    "media":"https://maps.google.com/maps?q=nisibis&hl=en&ll=37.090377,41.211605&spn=0.108313,0.154324&sll=38.804821,-77.236966&sspn=3.38576,4.938354&hnear=Nusaybin,+Turkey&t=p&z=13&iwloc=A",
+                    "credit":"",
+                    "caption":"<a href='http://pleiades.stoa.org/places/874623'>View at Pleiades</a>"
+                }
+            },
+            {
+                "startDate":"0359",
+				"endDate":"0359",
+                "headline":"Ephrem goes to Amida",
+                "text":"<p>Ephrem stayed in Amida temporarily after the Persians gained control of Nisibis.</p>",
+                "asset":
+                {
+                    "media":"https://maps.google.com/maps?q=amida&hl=en&ie=UTF8&sll=37.090377,41.211605&sspn=0.108313,0.154324&t=p&hnear=Diyarbak%C4%B1r,+Turkey&z=12",
+                    "credit":"",
+                    "caption":"<a href='http://pleiades.stoa.org/places/874298'>View at Pleiades</a>"
+                }
+            },
+            {
+                "startDate":"0363",
+				"endDate":"0363",
+                "headline":"Ephrem settles in Edessa",
+                "text":"",
+                "asset":
+                {
+                    "media":"https://maps.google.com/maps?q=Urfa,+Turkey&hl=en&sll=40.802889,22.044575&sspn=0.025696,0.038581&oq=urfa&t=p&hnear=Urfa,+Turkey&z=12",
+                    "credit":"",
+                    "caption":"<a href='http://pleiades.stoa.org/places/658457'>View at Pleiades</a>"
+                }
+            },
+            {
+                "startDate":"0373,06,09",
+				"endDate":"0373,06,09",
+                "headline":"Ephrem dies in Edessa",
+                "text":"",
+                "asset":
+                {
+                    "media":"https://maps.google.com/maps?q=Urfa,+Turkey&hl=en&sll=40.802889,22.044575&sspn=0.025696,0.038581&oq=urfa&t=p&hnear=Urfa,+Turkey&z=12",
+                    "credit":"",
+                    "caption":"<a href='http://pleiades.stoa.org/places/658457'>View at Pleiades</a>"
+                }
+            }
+            
+			
+			
+        ]
+    }
+}
